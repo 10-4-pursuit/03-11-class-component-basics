@@ -4,7 +4,7 @@ class BasicClassComponent extends Component {
         render() {
             return (
                 <div>
-                    <p> Hello from Class Component !!!</p>
+                    <p> Hello from the class on mars !!!</p>
                 </div>
             );
         }
